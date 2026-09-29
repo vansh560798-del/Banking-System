@@ -154,20 +154,10 @@ Bank accounts are created dynamically and stored using:
 vector<BankAccount*>
 ```
 
-## 📸 Screenshots
-
-### Code Screenshot
-
-> Add your code screenshot here.
-
-### Result Screenshot
-
-> Add your program output screenshot here.
-
-## 🎥 Project Explanation Video
+## 🎥 Project Video
 
 **Video Link:**  
-> Add your Google Drive / YouTube link here.
+https://drive.google.com/drive/folders/1-g8HgSpjR3PHpT8zbff1Fs6vbITzXV8a?usp=sharing
 
 ## 👨‍💻 Author
 
